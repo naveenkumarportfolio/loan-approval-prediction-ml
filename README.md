@@ -88,3 +88,14 @@ Parameters used:
 ```text
 max_depth = 4
 min_samples_leaf = 5
+2. Naive Bayes
+
+Gaussian Naive Bayes is used as a probability-based classification model.
+
+3. K-Nearest Neighbors
+
+KNN classifies an applicant based on similarity to nearby observations.
+
+Parameters used:
+
+n_neighbors = 5
